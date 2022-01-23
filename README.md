@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://images.unsplash.com/photo-1519824145371-296894a0daa9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=800" alt="logo-apple" width="300"> </p>
+<p align="center"> <img src="https://images.unsplash.com/photo-1519824145371-296894a0daa9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=800" alt="logo-apple" width="600"> </p>
 
  **Quiropraxia**.
 
